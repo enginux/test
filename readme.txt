@@ -1,2 +1,2 @@
 Hello
-Added another
+Added another line
