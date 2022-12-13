@@ -1,5 +1,0 @@
-Hello
-
-kalog
-
-ngmgm
